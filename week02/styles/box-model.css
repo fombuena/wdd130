@@ -1,0 +1,17 @@
+.callout {
+	background-color: steelblue;
+}
+
+.callout img {
+	display: block;
+	border: 10px solid;
+}
+
+blockquote {
+	color: white;
+}
+
+cite {
+	color: white;
+	font-size: 20px;
+}
