@@ -36,12 +36,13 @@ aside {
     border: 1px solid;
     padding: 15px;
     background-color: white;
-    color: brown; 
+    color: black; 
 }
 
 aside img {
     width: 200px;
     height: auto;
+    border-color: grey;
 }
 
 main img {
