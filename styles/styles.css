@@ -4,13 +4,13 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: black;
     display: block;
     padding: 20px;
 }
 
 h1 {
-    color: steelblue;
+    color: black;
 }
 
 img {
@@ -23,5 +23,35 @@ img {
 }
 
 p {
-    padding: 50px;
+    padding: 0;
+}
+
+main {
+    max-width: 840px;
+}
+
+aside {
+    width: 300px;
+    margin: 10px;
+    border: 1px solid;
+    padding: 15px;
+    background-color: white;
+    color: brown; 
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+
+}
+
+footer {
+    margin-top: 15px;
+    border-top: 1px solid #000;
+    text-align: center;
 }
