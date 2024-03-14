@@ -52,6 +52,7 @@ aside {
     padding: 15px;
     background-color: white;
     color: black; 
+    position: relative;
 }
 
 aside img {
