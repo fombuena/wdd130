@@ -63,8 +63,8 @@ aside img {
 
 aside h2 {
    position: absolute;
-   top: 587px;
-   left: 90px;
+   top: 19px;
+   left: 70px;
 }
 
 main img {
@@ -79,7 +79,6 @@ footer {
     text-align: center;
 }
 
-/* Class selectors*/
 
 .box {
 margin: 1rem;
@@ -89,3 +88,5 @@ background-color: #ddd;
 color: #000;
 
 }
+
+/* Class selectors*/
